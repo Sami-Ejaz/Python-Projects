@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Zahid Ahmed",
+        "Age": 23,
+        "Email": "zahid@gmail.com",
+        "Pin": 0,
+        "Account Number": "7qk#05t",
+        "Balance": 2000
+    },
+    {
+        "Name": "salar ahmed",
+        "Age": 21,
+        "Email": "salae@hotmail.com",
+        "Pin": "2222",
+        "Account Number": "",
+        "Balance": 5000
+    },
+    {
+        "Name": " new name",
+        "Age": 23,
+        "Email": "new email",
+        "Pin": 7777,
+        "Account Number": "$4I05gG",
+        "Balance": 4000
+    }
+]
